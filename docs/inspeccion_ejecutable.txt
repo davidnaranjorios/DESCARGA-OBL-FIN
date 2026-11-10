@@ -1,0 +1,26 @@
+INSPECCIÓN ESTÁTICA DEL EJECUTABLE — Descargar OF V 5.18.exe
+
+Formato: PyInstaller onefile; Python 3.11
+Módulo principal: Descargar OF V 5.18 (nombre de módulo empaquetado)
+Nombre de archivo fuente incrustado en bytecode: Descargar OF V 5.py
+Bytes de código marshal extraídos: 361371
+Bytecode recuperado en: Descargar_OF_V_5_extraido.pyc
+
+REFERENCIAS CONFIRMADAS EN EL BYTECODE:
+- Descargar OF V 5.py: SÍ
+- ejecutar_obligaciones_v5: SÍ
+- procesar_nit: SÍ
+- recorrer_y_descargar_sin_entrar: SÍ
+- mover_pdf_con_nombre_original: SÍ
+- registrar_pdf: SÍ
+- descargar_reporte_consolidado: SÍ
+- REPORTE_CONSOLIDADO: SÍ
+- muisca.dian.gov.co: SÍ
+- escribir_vencimiento_excel: SÍ
+- reporte consolidado descargado: SÍ
+
+LIMITACIONES:
+- El .pyc contiene código compilado; no es código fuente .py.
+- No se ha ejecutado el programa ni iniciado sesión en la plataforma.
+- Para reconstruir el código fuente hace falta descompilador compatible con Python 3.11 o desensamblado manual.
+- La ruta de descarga puede adaptarse después para consumir el PDF temporalmente y exportar Excel.
