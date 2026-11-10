@@ -1,0 +1,18 @@
+# Archivos con información tributaria o personal
+*.pdf
+*.xlsx
+*.xls
+*.csv
+*.7z
+*.zip
+*.exe
+*.pyc
+*.bin
+__pycache__/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+Obligaciones Financieras NIT - */
+DEUDA_VENCIDA_*
